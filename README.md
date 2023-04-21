@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [tonotonokon.com](tonotonokon.com)
 
-- 📫 Reach me via **contact at domain-name-above**
+- 📫 Reach me via **my-first-name at domain-name-above**
 
 <p align="left">
 </p>
